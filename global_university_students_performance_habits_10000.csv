@@ -1,0 +1,400 @@
+student_id,age,gender,country,major,university_year,GPA,study_hours_per_day,class_attendance_percent,sleep_hours,screen_time_hours,social_media_hours,gaming_hours,exercise_hours_per_week,part_time_job,relationship_status,family_income_level,internet_quality,mental_stress_level,AI_tool_usage_hours,favorite_AI_tool,note_taking_method,exam_preparation_days,coffee_consumption_per_day,extracurricular_hours_per_week,final_exam_score,assignment_score
+S00001,23,Female,Germany,Law,4,3.81,4.2,96,6.2,3.9,3.3,0,2.1,Yes,Single,High,Average,4.8,1.5,Claude,Digital,15,3,7.6,100,100
+S00002,26,Female,USA,Economics,2,3.46,3.3,94,6.6,4.9,3.2,2.7,5,No,Single,Low,Average,3.9,2.3,Gemini,Mixed,11,3,5.2,100,83
+S00003,18,Female,Canada,Medicine,3,4,4.5,100,6.3,3.7,1.4,0,2.6,Yes,In a Relationship,High,Average,4.8,0,None,Mixed,12,3,4.6,100,100
+S00004,20,Male,Australia,Physics,4,3.77,5.8,97,7.1,6.9,3.7,2.1,3.2,No,Single,High,Good,5.9,2.9,Gemini,Mixed,11,1,4,100,98
+S00005,28,Female,Australia,Medicine,2,4,3.1,96,8.4,4.8,0.6,0,4.4,Yes,In a Relationship,Middle,Good,3.1,1.5,ChatGPT,Handwritten,15,4,1.4,100,94
+S00006,18,Male,France,Medicine,2,4,3.1,96,6.1,5.6,1.8,3.9,2.9,No,In a Relationship,Low,Good,5,1.3,Claude,Digital,13,3,1.7,96,94
+S00007,27,Male,Netherlands,Economics,1,4,5.9,100,8.2,1.6,0,0.5,0,Yes,In a Relationship,Low,Good,2.9,0.2,None,Handwritten,22,2,3.8,100,97
+S00008,19,Male,Netherlands,Law,1,3.5,4.7,89,6.1,7.7,5.1,1.7,5.1,No,Single,High,Good,5,0.6,Claude,Digital,10,0,0,100,93
+S00009,20,Male,Japan,Biology,3,3.72,2.8,90,6,5.6,2.5,2.7,5.5,No,Single,High,Average,5.3,0.8,Claude,Mixed,21,0,4.7,100,100
+S00010,21,Female,Japan,Economics,2,3.47,4.3,100,8,8.8,6.1,0.1,0,No,Single,Low,Good,6.2,0,None,Handwritten,3,1,4.1,92,99
+S00011,26,Female,Brazil,Biology,2,3.24,2.8,80,8.1,6.7,4,1.6,0.9,No,Single,Middle,Good,4.3,0.9,Claude,Mixed,14,3,4.2,100,81
+S00012,25,Female,Italy,Economics,3,3.57,2.8,73,8,4.4,3.5,1.1,7,No,In a Relationship,Middle,Good,3.2,0.3,Copilot,Handwritten,4,3,5.3,92,88
+S00013,24,Female,France,Physics,2,3.51,3.9,100,5.4,3.5,1.9,2.8,3.5,No,Single,Middle,Good,5.2,1.9,Claude,Mixed,7,1,1.2,100,94
+S00014,26,Female,Australia,Biology,2,2.71,0.6,77,6.4,3.7,1.2,2.8,3,Yes,Single,Middle,Poor,4.8,0,None,Handwritten,7,2,5.6,74,87
+S00015,26,Female,USA,Computer Science,4,2.93,0.9,71,8,2.9,3.6,2,2.1,Yes,Single,Middle,Average,3.4,1,Copilot,Mixed,7,1,6.1,92,85
+S00016,19,Female,USA,Computer Science,3,3.45,2.7,84,7,6.5,2.7,0,0.9,No,Single,Middle,Average,4.8,0.2,None,Digital,9,2,2,100,99
+S00017,21,Female,Germany,Engineering,2,3.3,2,85,5.7,2.2,0.8,0.8,2.6,Yes,Single,High,Average,3.8,1.2,Gemini,Handwritten,23,1,1.5,96,98
+S00018,24,Male,Brazil,Law,4,4,4,100,7.5,4.3,0.5,1.4,4.9,Yes,Single,Middle,Good,2.5,3.6,Copilot,Mixed,8,1,5,100,100
+S00019,25,Female,South Korea,Biology,1,2.97,2.1,72,6.1,5.1,1.4,3.1,3,No,Single,Middle,Average,5.2,2.9,Claude,Handwritten,4,2,0.3,87,67
+S00020,21,Female,Netherlands,Business,4,2.6,1.4,74,9.2,7.8,5.5,0,4.2,Yes,Single,Low,Average,3.9,0.7,Gemini,Handwritten,14,1,4.2,87,75
+S00021,24,Male,USA,Medicine,1,3.98,5.7,100,8.9,10.3,6.1,1.2,6.5,No,Single,Middle,Good,3.4,1,ChatGPT,Handwritten,13,3,3,100,93
+S00022,18,Male,USA,Mathematics,2,4,3.2,98,7.7,7,3.1,3.2,1.8,Yes,Single,Middle,Average,3.4,0.4,Claude,Handwritten,23,2,7.4,96,100
+S00023,26,Female,USA,Medicine,4,4,3.6,100,8.6,5.6,3,1.2,3.6,Yes,In a Relationship,Low,Good,3.3,1,ChatGPT,Mixed,12,3,0,98,100
+S00024,23,Female,Germany,Mathematics,2,3.36,1.4,83,7.1,4.8,2.3,1.5,5,Yes,Single,Middle,Average,2.7,1.9,Gemini,Mixed,1,3,6.6,72,99
+S00025,18,Female,Italy,Economics,3,3.99,2.7,94,7.9,5.7,1.4,0,1.1,Yes,Single,Middle,Good,2.7,0,None,Digital,10,3,3.8,100,100
+S00026,27,Male,Australia,Computer Science,4,3.77,3.7,90,8.8,8.2,4.9,0.9,3.4,No,In a Relationship,Low,Average,3.3,2.8,Gemini,Mixed,10,0,6,98,97
+S00027,24,Female,Italy,Biology,1,3.24,1.8,72,7.3,9.9,5.6,2.2,6.7,Yes,Single,Low,Poor,3.5,2.1,ChatGPT,Digital,6,3,2.8,97,84
+S00028,19,Female,Netherlands,Computer Science,3,4,4.1,100,6.7,1.6,1.5,0.5,2.3,No,Single,High,Average,3,2.1,Claude,Handwritten,9,2,3.4,100,100
+S00029,22,Male,Bangladesh,Engineering,3,3.01,2.6,78,5,5.8,2.7,0,5.1,Yes,Single,High,Average,4.7,1.6,ChatGPT,Digital,11,3,2.5,100,77
+S00030,23,Male,Japan,Business,1,3.96,3.1,94,6.9,3.2,2.1,0.3,2.7,Yes,In a Relationship,Low,Average,1.9,0.3,Claude,Digital,12,0,1.9,100,92
+S00031,22,Female,Germany,Business,3,3.83,2.6,91,8,5.2,2.2,3.1,6.6,Yes,In a Relationship,Low,Good,2.1,2.2,Copilot,Handwritten,5,1,1.5,100,84
+S00032,21,Male,France,Biology,1,4,6.3,100,8.1,8.5,4.6,2,0,Yes,In a Relationship,Middle,Average,4.9,0.9,Claude,Digital,15,5,4.6,100,100
+S00033,20,Female,India,Business,1,4,3.5,97,7.6,5.9,0.8,2.7,3.1,Yes,In a Relationship,High,Good,4.2,0,None,Digital,20,0,7.8,100,88
+S00034,22,Female,South Korea,Medicine,3,3.41,1.9,88,6.4,5.4,3.5,2.3,0,Yes,In a Relationship,Middle,Average,4.9,1.3,ChatGPT,Mixed,13,2,3.8,85,84
+S00035,24,Female,Japan,Business,1,3.45,4.7,100,4.6,6.3,3.9,4.7,1.6,No,Single,High,Poor,5.5,0,None,Mixed,18,3,3.8,100,96
+S00036,28,Female,Japan,Physics,3,3.1,1.7,79,6.4,5.5,2.6,2.8,1.6,Yes,In a Relationship,High,Poor,4.4,0.6,Copilot,Handwritten,13,1,4.6,93,86
+S00037,27,Male,Italy,Psychology,4,3.48,3.8,82,6.6,5.9,4.1,1.5,2.5,Yes,In a Relationship,Middle,Good,3,1.9,Gemini,Digital,7,1,6,100,87
+S00038,22,Female,Brazil,Business,1,3.13,0.6,71,6.6,7.2,3,1.2,0.6,No,In a Relationship,Middle,Average,5.4,1.1,Copilot,Digital,13,2,2.9,83,67
+S00039,22,Male,Australia,Engineering,3,2.9,1.5,84,7.7,7.5,4.6,2.1,2.9,No,In a Relationship,High,Good,5.2,1.2,ChatGPT,Mixed,9,7,2.3,92,95
+S00040,22,Female,Bangladesh,Mathematics,4,4,3.8,95,9.4,3.6,0.5,3.1,3.9,No,Single,High,Good,2.9,2.4,Claude,Handwritten,6,2,3,100,100
+S00041,20,Female,Canada,Biology,4,3.67,4.6,100,7.1,6,2.3,0.4,0,No,In a Relationship,Middle,Average,6.9,0,None,Handwritten,12,1,5.8,100,97
+S00042,23,Male,USA,Biology,2,4,3.8,100,6.7,5.6,2.7,2.1,1.7,Yes,Single,Middle,Average,3.1,2.3,Gemini,Handwritten,16,1,4.1,100,100
+S00043,19,Male,UK,Business,1,4,3.3,97,6.7,2,0,1.7,8.1,Yes,Single,Middle,Average,1,1.3,Claude,Digital,10,0,1.1,100,100
+S00044,28,Female,Canada,Medicine,1,3.94,3,100,7.1,4.1,1.2,1.9,3.7,No,Single,Middle,Average,4,1.1,ChatGPT,Handwritten,22,3,5.2,92,97
+S00045,25,Male,Canada,Computer Science,3,3.16,1.3,79,6,3.6,1.6,1.1,0,Yes,In a Relationship,Middle,Good,4.2,1.2,Claude,Mixed,17,2,1.5,86,75
+S00046,26,Male,USA,Biology,3,3.37,2.4,87,7.1,7.3,4.2,2.2,0.2,Yes,Single,High,Poor,4.2,1.8,ChatGPT,Handwritten,9,3,5.6,100,97
+S00047,23,Female,Germany,Business,1,3.27,2.8,100,7.5,5.9,1.7,3.2,3.5,No,In a Relationship,Low,Good,3.1,2.2,Gemini,Handwritten,9,0,6.1,92,82
+S00048,20,Male,Germany,Psychology,1,4,5.1,95,7.3,3.2,1.6,2,3.2,Yes,In a Relationship,Middle,Good,2.8,1,Copilot,Handwritten,23,2,3.4,100,100
+S00049,20,Male,Canada,Biology,2,3.68,4,89,7.5,5.2,4,0,1.8,Yes,In a Relationship,Middle,Average,6.3,1.1,Claude,Handwritten,10,2,7.3,99,94
+S00050,22,Male,India,Psychology,4,3,0.9,91,7.5,3.5,0.4,0.3,7.4,No,In a Relationship,High,Average,4.3,1.8,ChatGPT,Handwritten,14,2,7.4,84,100
+S00051,21,Female,Canada,Computer Science,4,4,4,100,4.9,2.1,0,3.7,8.2,No,Single,Middle,Good,1,0,None,Digital,14,0,3.4,100,100
+S00052,18,Female,India,Law,2,3.35,2.9,80,7.8,5.3,2.3,0,2.5,Yes,In a Relationship,Middle,Average,2.2,1.1,ChatGPT,Digital,3,0,5.6,76,99
+S00053,25,Female,Brazil,Physics,1,4,2.5,100,6.2,4,0.6,0,4.7,No,Single,Middle,Average,2.4,1.7,Copilot,Digital,3,4,8.4,100,100
+S00054,25,Male,Japan,Biology,2,3.89,4.4,80,5.7,1.1,0.7,0.7,4.8,Yes,Single,Middle,Average,2.6,0.7,ChatGPT,Handwritten,16,1,3.5,100,95
+S00055,19,Male,South Korea,Engineering,4,3.96,5,100,5.7,7.5,3.7,0.5,5.1,Yes,Single,Middle,Average,3.7,0.4,Copilot,Digital,7,2,1.8,100,95
+S00056,27,Female,Brazil,Medicine,1,4,4.9,100,7.5,5.7,4.1,1.5,1.7,Yes,Single,Low,Average,4.5,1,Gemini,Digital,12,3,1.6,100,100
+S00057,21,Female,UK,Computer Science,2,3.07,2.2,75,6.7,7,4,2.1,6.9,No,Single,Middle,Average,3.4,0.6,ChatGPT,Handwritten,4,1,6.2,95,96
+S00058,20,Male,UK,Engineering,4,3.14,3,77,5,6.7,4.5,2,2.9,No,Single,Middle,Poor,4.1,1,ChatGPT,Mixed,10,2,1.5,100,90
+S00059,21,Male,India,Economics,3,3.65,4,89,7.6,7,4.7,0.9,3.8,No,Single,Middle,Average,3.4,0.7,ChatGPT,Digital,13,5,3.6,94,94
+S00060,20,Male,France,Business,3,3.95,5,100,5.3,5,0,0.8,3,No,In a Relationship,Middle,Average,5.1,2.8,Claude,Handwritten,2,0,3.1,100,100
+S00061,23,Male,Bangladesh,Physics,1,3.4,2.8,100,7.2,6.9,3.5,1.1,2.7,No,Single,Low,Good,4,0.1,None,Mixed,12,2,4.7,100,90
+S00062,21,Male,UK,Computer Science,1,3.87,3.2,100,7.3,6.1,2,3.1,3.6,Yes,Single,Middle,Good,3.1,2,Claude,Digital,13,1,3.4,100,100
+S00063,21,Male,Netherlands,Psychology,4,3.54,1.8,97,8.1,4.9,1.7,0.9,0.6,No,In a Relationship,Low,Average,2.2,0.6,Copilot,Digital,10,3,4.8,82,93
+S00064,28,Male,Germany,Economics,1,3.42,1.7,80,9.1,7.3,3.6,2,0,No,Single,Middle,Good,3.8,1.5,Gemini,Mixed,6,2,3.8,88,93
+S00065,25,Female,Japan,Mathematics,1,3.76,4.7,100,5.4,3.7,0.2,1.3,2.6,Yes,In a Relationship,High,Good,4.6,1.8,ChatGPT,Handwritten,10,2,3.1,100,100
+S00066,24,Female,Germany,Medicine,4,4,5.5,100,6.9,3.5,0.2,0.8,1.2,Yes,Single,Middle,Average,4,2.7,Gemini,Handwritten,10,1,3.2,100,81
+S00067,19,Male,France,Law,1,3.54,3.4,87,6.7,8.1,3.8,2.6,4.1,No,Single,Middle,Average,5.2,1.6,Copilot,Digital,22,1,2.6,96,100
+S00068,26,Female,Germany,Engineering,2,4,5,99,7.5,6.7,3.5,0.7,3.9,No,In a Relationship,High,Average,2.8,0.8,Copilot,Handwritten,11,3,4.8,100,93
+S00069,25,Male,Australia,Mathematics,2,3.92,4,100,7.3,8.7,3,1.8,3,Yes,In a Relationship,Low,Poor,2.8,1.3,Claude,Digital,10,1,6.1,100,100
+S00070,21,Female,Australia,Physics,1,3.42,2.5,82,6.6,5.7,1.5,2.3,6,No,Single,High,Average,4.2,3.1,Gemini,Handwritten,11,2,4.6,99,94
+S00071,28,Female,Canada,Engineering,1,3.6,4,87,6.5,5.5,3.9,2.1,3,No,In a Relationship,Low,Good,5.5,1.4,Claude,Digital,14,0,1.1,89,93
+S00072,19,Female,Canada,Business,3,4,5.8,100,5.7,6.6,3.8,1.9,0.1,No,Single,High,Good,5.2,0,None,Mixed,14,5,5.3,100,100
+S00073,19,Female,Italy,Biology,3,4,3.4,94,8.2,6.4,2.9,1.6,2.6,Yes,Single,Middle,Average,4.6,0.8,Gemini,Handwritten,14,2,3.5,100,97
+S00074,24,Female,USA,Engineering,1,4,5.8,100,7.6,4.1,1,1.7,5.3,Yes,In a Relationship,High,Poor,1.5,0.8,ChatGPT,Digital,15,3,2.5,100,100
+S00075,24,Female,Germany,Biology,4,2.88,0.5,69,8.1,6,2.2,1.5,0,No,Single,Low,Good,2.8,1.9,ChatGPT,Handwritten,5,4,2.6,80,79
+S00076,24,Female,USA,Medicine,3,3.94,4.7,92,6.6,8.1,4.1,0.8,2.8,No,Single,Low,Average,3.2,0,None,Mixed,15,0,1.7,100,93
+S00077,19,Male,Australia,Engineering,2,3.55,3.6,95,6.2,6.2,4.8,0.7,4.2,No,In a Relationship,Middle,Good,5.3,0.7,Gemini,Digital,13,4,7.6,100,100
+S00078,25,Male,Bangladesh,Business,4,3.19,3.1,92,5.7,6.8,2.3,1.5,8.3,Yes,In a Relationship,Low,Average,3.5,1.4,Claude,Digital,9,3,4.1,95,75
+S00079,20,Male,Germany,Biology,3,3.23,3.6,89,7.4,4.8,2.4,1.7,5.4,No,In a Relationship,Middle,Good,2.8,0.9,Copilot,Handwritten,13,2,1.5,96,90
+S00080,27,Female,Italy,Mathematics,4,2.9,0.5,64,5.8,4.9,2.6,1.8,3.3,Yes,In a Relationship,Middle,Average,3.6,1.3,Gemini,Digital,11,3,6.3,76,83
+S00081,22,Female,Canada,Physics,4,3.41,3.2,85,9.2,5.5,3.2,2.3,4,No,Single,Low,Poor,5.7,1.3,Copilot,Handwritten,12,2,9.3,96,87
+S00082,20,Male,UK,Economics,1,4,4,92,5.4,5.9,1.9,0,0,No,Single,High,Good,4.6,1.4,Claude,Digital,13,2,5,100,89
+S00083,19,Female,France,Medicine,2,4,5.7,100,7.3,2.7,0,2,0.9,No,In a Relationship,Middle,Average,4.7,0.3,Copilot,Digital,4,3,3.7,100,94
+S00084,22,Male,USA,Business,1,3.48,2.7,80,8.9,6.8,4.6,1.9,4.3,Yes,Single,Middle,Average,3.7,2,Gemini,Mixed,13,1,2,80,95
+S00085,18,Female,Bangladesh,Economics,1,3.35,2.3,98,7.7,8,5.5,1.9,3.3,No,In a Relationship,High,Poor,4.3,0.7,Copilot,Digital,15,2,6.6,95,83
+S00086,21,Male,UK,Engineering,4,3.5,2.7,94,7.2,2.7,1.9,2.1,3.6,No,Single,High,Average,4.9,1.2,Gemini,Digital,13,0,5.7,100,84
+S00087,25,Male,Italy,Physics,2,3.7,4.9,100,5.8,3.2,1.2,0.5,3.1,No,In a Relationship,Middle,Good,4.6,0,None,Digital,8,1,2.6,100,90
+S00088,21,Female,Italy,Engineering,1,3.58,4,94,5.3,4.1,2.6,1.8,3,No,Single,Low,Average,4.6,1.2,ChatGPT,Digital,8,2,6.2,100,97
+S00089,23,Male,Netherlands,Law,2,3.12,2.7,79,7.9,5.2,2.5,1.8,3.2,Yes,In a Relationship,High,Average,4.7,1.4,Gemini,Digital,13,2,3.6,90,79
+S00090,26,Male,Netherlands,Psychology,1,4,4.3,90,8.8,8.1,4.3,0,0.9,Yes,Single,Middle,Poor,7,1.2,Claude,Digital,16,0,6.8,100,100
+S00091,25,Male,Netherlands,Physics,1,3.88,3.6,100,6.5,6.6,2.9,3.3,2.5,No,Single,High,Good,3.7,0.4,Claude,Mixed,19,2,5.2,100,100
+S00092,26,Male,India,Engineering,3,4,5,100,5.6,6.1,1.6,0.3,0.5,No,In a Relationship,High,Average,5.1,2.3,Claude,Mixed,16,0,4.8,100,100
+S00093,28,Female,Italy,Computer Science,3,3.2,2.4,66,4.1,5,0.8,1.8,1.8,No,In a Relationship,Middle,Good,4.1,1.8,Gemini,Handwritten,15,2,1.4,100,80
+S00094,24,Male,Brazil,Engineering,1,3.67,3,88,5.8,6.5,4.1,0,5.4,No,In a Relationship,Low,Good,3.6,1.1,Gemini,Mixed,1,2,5,99,100
+S00095,26,Female,France,Psychology,4,3.06,2.9,98,6.9,6.7,3.7,2.9,2.6,Yes,Single,Middle,Average,3.6,1.1,ChatGPT,Mixed,9,4,3,82,100
+S00096,27,Male,Japan,Business,4,2.98,1.3,75,8.9,7.4,4.4,0.7,4.2,Yes,Single,Low,Good,5.4,0.5,ChatGPT,Handwritten,14,3,6.7,75,81
+S00097,28,Male,Bangladesh,Economics,3,4,3.9,100,7.8,1.7,1.3,1,3.2,Yes,In a Relationship,Middle,Average,1.3,0.6,Gemini,Digital,9,1,1.6,100,85
+S00098,24,Male,Canada,Physics,4,3.68,3.9,97,7.4,7.1,5.6,0.2,2.2,No,In a Relationship,High,Average,5.7,2.7,ChatGPT,Digital,7,0,6.5,100,99
+S00099,18,Female,Netherlands,Physics,2,3.81,3.5,100,6.5,3,0.2,0.9,1,No,In a Relationship,Middle,Average,2.8,0.8,ChatGPT,Handwritten,7,3,3.1,100,100
+S00100,26,Female,Australia,Economics,3,3.54,3.1,85,6.3,6.7,3.9,1.7,2.2,Yes,Single,Low,Average,6.7,4,Copilot,Mixed,21,3,2,100,75
+S00101,24,Male,France,Business,2,3.81,1.4,88,8.7,3.6,0,3.5,3.4,Yes,In a Relationship,High,Good,2,0,None,Digital,6,3,5,100,99
+S00102,23,Male,India,Medicine,3,3.66,2.9,88,7.2,5.2,1.6,2.6,4.2,No,Single,Low,Average,2.9,1.6,Gemini,Digital,11,2,0.7,100,86
+S00103,18,Male,India,Computer Science,3,3.26,3,82,4.5,6,5.1,2.6,3.2,No,In a Relationship,Low,Good,7.4,1.4,Gemini,Digital,8,4,2.6,100,96
+S00104,19,Male,Germany,Computer Science,4,3.27,2.3,83,6.2,7.6,4,0,4.3,Yes,Single,Middle,Average,5.4,1.2,Copilot,Digital,8,2,3.1,100,79
+S00105,25,Male,Italy,Economics,4,3.43,3.3,88,6,5.2,2,1.8,0,No,Single,Middle,Good,5.3,0,None,Handwritten,14,2,3.4,95,95
+S00106,26,Male,Netherlands,Economics,4,3.72,4.1,82,6.3,5.7,2,0.9,4.7,No,In a Relationship,Middle,Good,4.5,0,None,Digital,16,2,3.7,100,96
+S00107,23,Female,South Korea,Computer Science,3,4,6.3,100,7.7,7.3,3,0.1,0.7,No,In a Relationship,Middle,Good,3.3,1.4,Gemini,Mixed,6,4,3.6,100,99
+S00108,21,Female,USA,Engineering,4,3.72,3.8,85,6.9,6.4,3.6,0.7,5,No,In a Relationship,Middle,Good,4.8,0.2,None,Mixed,12,3,2.9,100,72
+S00109,19,Male,India,Biology,3,3.86,3.9,83,6.9,9.2,4.7,1.5,4,No,Single,High,Poor,4.5,2.4,Gemini,Handwritten,11,0,4.3,100,91
+S00110,22,Male,Italy,Business,4,4,3.4,91,8.6,4,2.1,1,0,No,In a Relationship,Middle,Average,4.2,1,Gemini,Handwritten,10,1,5.3,91,92
+S00111,27,Male,Italy,Biology,2,3.16,0.6,82,6.2,2.3,0.4,1.9,4.5,Yes,Single,Middle,Average,3.6,1.5,Gemini,Handwritten,7,0,1.7,84,77
+S00112,22,Male,India,Computer Science,2,4,3.5,88,9.2,6.5,3,0,5,No,Single,Middle,Average,1.9,1.2,Copilot,Digital,18,0,6.8,100,94
+S00113,23,Male,Germany,Business,1,3.61,3.6,86,6.2,4.7,2.1,4.6,5.5,Yes,In a Relationship,Low,Good,4.2,1.1,Claude,Digital,7,2,1.1,100,94
+S00114,23,Male,Bangladesh,Physics,4,4,7.2,100,7.1,4.1,0.8,1.8,1.5,Yes,In a Relationship,Low,Poor,3.3,2.7,Claude,Digital,5,3,6.7,100,100
+S00115,28,Male,South Korea,Computer Science,2,3.36,3.2,83,6.7,8.6,3.2,0.9,3.4,No,Single,Low,Good,3,2.3,ChatGPT,Digital,17,2,2.9,100,100
+S00116,24,Female,USA,Mathematics,4,3.99,4,88,7.1,6,2.5,1.1,4.4,Yes,Single,Low,Average,3.5,1.4,ChatGPT,Handwritten,13,1,5.7,100,100
+S00117,24,Male,India,Economics,2,3.95,3.4,99,7.5,6.6,3.3,0,4.5,No,In a Relationship,Low,Average,3.8,1.9,ChatGPT,Digital,6,4,3.1,100,100
+S00118,26,Female,Brazil,Biology,2,3.32,1.7,83,7.5,3.5,1.5,0,3.8,Yes,In a Relationship,Middle,Poor,3.8,2.4,Copilot,Handwritten,12,3,6.9,75,91
+S00119,19,Female,South Korea,Physics,4,4,5.2,100,6.1,4.5,3.5,1.3,2.1,No,In a Relationship,Middle,Good,2.5,0.6,Copilot,Mixed,9,3,0.5,100,100
+S00120,28,Male,Bangladesh,Business,3,4,4.6,100,5.7,3.7,0.8,1.8,5,No,Single,Middle,Average,3.7,0,None,Digital,19,1,3.1,100,84
+S00121,18,Female,Canada,Psychology,2,4,4.7,100,10,5.9,1.6,0,5,Yes,In a Relationship,High,Average,1.6,1.8,ChatGPT,Handwritten,11,5,2,100,100
+S00122,28,Male,Germany,Mathematics,2,3.4,2.1,88,6.4,5,2.4,0.3,2.7,No,In a Relationship,Low,Average,5,2.4,ChatGPT,Handwritten,15,0,1.2,89,100
+S00123,20,Female,India,Biology,1,3.4,5.6,100,7.8,8.9,5.4,1.7,1.4,No,In a Relationship,Middle,Poor,5.1,0,None,Mixed,12,0,6.3,100,96
+S00124,23,Male,USA,Engineering,1,2.33,1.4,60,5.1,8.7,4,0.1,1.5,No,Single,High,Average,5.2,0.6,Gemini,Mixed,19,0,2.7,74,71
+S00125,23,Male,Canada,Biology,3,3.84,4.4,98,6.7,9.1,4.4,2.7,5.7,No,In a Relationship,Middle,Average,4.1,1,ChatGPT,Handwritten,13,0,3.3,97,100
+S00126,22,Male,Netherlands,Physics,3,3.93,6.8,100,6.8,8.4,4.9,1.9,4.9,No,Single,Middle,Average,4.9,0.2,None,Mixed,18,1,0.9,100,100
+S00127,25,Female,Germany,Physics,3,2.82,2,80,7.6,11.2,8,0.9,3,No,Single,Low,Poor,6.8,1.1,Gemini,Mixed,15,0,4.7,83,100
+S00128,28,Female,Brazil,Business,2,3.24,2.7,73,3.7,4.1,2.9,1.7,2.6,No,Single,Low,Average,4.5,0.1,None,Digital,9,1,2.9,84,88
+S00129,23,Male,South Korea,Psychology,2,3.73,3.6,87,7.2,7.1,4.9,0.4,0,No,In a Relationship,Low,Good,5.1,0.9,Gemini,Digital,12,0,3.5,91,94
+S00130,22,Female,Japan,Business,3,3.19,2.7,70,5.6,7,4.3,0.4,2.8,Yes,Single,Middle,Average,6.7,1.9,Claude,Handwritten,11,1,1.6,99,79
+S00131,18,Female,USA,Law,4,2.52,1.2,81,7.4,6.3,4.3,3.4,0.6,No,In a Relationship,High,Poor,4.6,0,None,Handwritten,9,0,6.6,68,86
+S00132,19,Male,India,Engineering,1,3.61,3.6,96,5.8,8.8,5.5,3.7,3.3,Yes,In a Relationship,Middle,Average,5.9,0.1,None,Handwritten,7,1,6.9,100,95
+S00133,25,Female,France,Business,4,3.35,1.9,77,6,7.5,2.2,0.9,5.4,No,Single,Low,Average,2.5,2.6,Copilot,Mixed,19,2,4.9,100,94
+S00134,20,Female,Bangladesh,Engineering,3,4,4.2,97,6.7,6.9,2.1,1.5,1,No,In a Relationship,Middle,Average,2.6,0.4,Gemini,Mixed,2,3,4.4,100,96
+S00135,27,Male,Bangladesh,Business,4,2.94,2.1,73,5.7,6.6,3.3,0.9,3.5,No,In a Relationship,Middle,Average,3.6,0,None,Digital,19,3,5.4,92,87
+S00136,24,Male,Italy,Computer Science,2,4,5.8,100,6.4,6.4,2.5,3,5,Yes,In a Relationship,Low,Good,3.1,1.4,Gemini,Mixed,5,3,6.8,100,100
+S00137,27,Male,USA,Biology,2,3.02,2.3,86,5.6,5.4,3.3,4,3.4,Yes,Single,High,Poor,5.7,1.1,Gemini,Digital,15,0,1.1,97,88
+S00138,23,Female,UK,Physics,2,2.82,3,76,4.8,9.9,5.1,0.7,2,Yes,Single,Middle,Poor,7.1,1.3,Gemini,Handwritten,9,0,0,95,84
+S00139,26,Male,USA,Computer Science,2,4,4.7,100,8.2,3.2,2.1,0,3,Yes,In a Relationship,Low,Good,1.4,1.3,Claude,Mixed,4,0,10,100,100
+S00140,26,Male,Italy,Computer Science,4,2.77,1.7,78,5.4,6.4,2.3,2.7,4.9,No,Single,Low,Good,3.5,2.5,Gemini,Handwritten,18,1,0,89,82
+S00141,24,Male,UK,Economics,3,3.5,3.8,100,6.8,6.7,3.1,2.4,3.5,No,In a Relationship,Middle,Good,4.9,0.5,Gemini,Handwritten,1,1,2.9,100,100
+S00142,27,Female,Germany,Psychology,3,4,5.5,100,7.9,4.6,2.5,3.2,3,No,Single,Middle,Good,3.5,1.1,Copilot,Handwritten,16,3,4.5,100,100
+S00143,18,Male,Japan,Engineering,3,3.12,1.1,89,6.3,2.7,0,1.8,5.3,Yes,In a Relationship,Middle,Average,4.2,0.8,Copilot,Handwritten,13,1,4.4,92,100
+S00144,22,Female,Brazil,Biology,1,3.9,3.8,100,6,3.5,1.9,0,4,No,In a Relationship,High,Good,4.5,1.9,ChatGPT,Digital,17,0,3.6,100,100
+S00145,21,Male,Bangladesh,Biology,1,3.7,3.9,81,7.3,5.5,3.8,0,0.6,No,In a Relationship,Low,Good,4.6,2,Claude,Digital,15,0,5.5,100,100
+S00146,25,Female,Italy,Computer Science,1,3.97,4.7,99,8.3,6.1,5,3.9,4.3,No,Single,Low,Average,4.1,1.6,Gemini,Digital,15,2,3.9,100,100
+S00147,25,Female,South Korea,Psychology,1,2.74,1.6,79,5.6,5,1.1,1.4,4.9,No,Single,Low,Poor,3.4,3.4,Claude,Digital,16,3,2.6,83,76
+S00148,27,Female,France,Psychology,4,3.31,1.5,76,6.8,5.5,1.1,0.4,0.5,No,Single,Middle,Poor,3.1,1.8,Claude,Digital,16,1,4.7,96,94
+S00149,26,Female,Italy,Physics,1,3.92,4.3,98,4.9,3.2,2.8,0,0,No,In a Relationship,Low,Good,6.3,2.5,Copilot,Mixed,14,2,1.2,84,100
+S00150,22,Female,India,Computer Science,3,4,3.9,100,6.5,5.2,0,2.1,0.9,No,Single,Middle,Good,4.3,0.3,Copilot,Mixed,10,0,6.8,100,91
+S00151,22,Female,Australia,Computer Science,4,3.25,3.9,81,7,5.1,2.1,1.6,2.8,No,Single,Middle,Average,4.3,0.5,ChatGPT,Mixed,11,1,4.2,94,92
+S00152,26,Female,Bangladesh,Physics,3,3.76,4,83,6,3.5,0.2,0,5,No,In a Relationship,Middle,Average,3.2,3.2,Copilot,Mixed,13,2,2.3,100,100
+S00153,22,Male,France,Biology,2,3.51,2.5,94,6.5,6.1,4.9,0.3,1.2,No,Single,Middle,Average,4.4,0,None,Handwritten,11,3,3.6,91,88
+S00154,25,Female,USA,Psychology,2,4,3.8,92,5.3,6.2,1.6,0.5,4.1,No,In a Relationship,High,Good,4.5,2,ChatGPT,Mixed,23,1,4.1,100,100
+S00155,27,Female,USA,Mathematics,3,3.61,3.9,92,7.1,8.5,5.3,2.1,0,Yes,In a Relationship,High,Average,5.8,2.5,Copilot,Handwritten,12,0,3.4,100,96
+S00156,24,Female,Brazil,Economics,1,2.82,2.4,76,8.3,8.9,4.5,3.7,3.4,No,In a Relationship,Middle,Average,6.2,2.4,Gemini,Handwritten,6,4,8,89,79
+S00157,24,Male,France,Mathematics,2,4,6.3,100,5.7,6.3,1.8,1,2.2,No,In a Relationship,Low,Average,3,0,None,Handwritten,11,1,3.5,100,100
+S00158,19,Male,Canada,Law,3,3.87,4.2,100,6.3,5.8,1.2,3.6,7.2,Yes,Single,Middle,Poor,2.1,0.8,Claude,Handwritten,8,2,0.4,100,100
+S00159,22,Female,USA,Physics,1,3.44,1.7,86,7.6,4.7,2.5,1.5,0,No,Single,Middle,Good,2.8,1.8,Copilot,Digital,22,3,2.4,93,99
+S00160,20,Female,Italy,Engineering,2,4,4.5,100,8.5,5.4,2.6,0.4,3,No,In a Relationship,Low,Good,3.2,1.9,Copilot,Digital,12,1,4.7,100,99
+S00161,21,Female,Brazil,Physics,1,2.82,2,64,5.2,5.6,3.3,3.3,0,Yes,Single,Low,Average,3.8,1.2,Claude,Mixed,15,2,7,91,79
+S00162,21,Male,Italy,Medicine,4,3.55,4.7,100,6.8,5.7,1.6,2.1,1.9,Yes,Single,Low,Good,5.1,0.5,ChatGPT,Handwritten,15,4,5.3,100,76
+S00163,26,Male,Germany,Biology,3,3.74,5.2,100,7.3,7.3,3.9,3.2,0,No,Single,Middle,Good,6.1,0.9,ChatGPT,Handwritten,17,1,1.7,100,99
+S00164,22,Female,South Korea,Psychology,4,3.4,2.3,79,6.9,7.5,3.2,2,7.6,Yes,Single,Middle,Average,3.2,0.6,Gemini,Handwritten,13,2,1.4,90,97
+S00165,19,Female,USA,Economics,3,3.78,4.9,100,4,6.6,2.3,4.7,2.3,No,In a Relationship,Middle,Poor,4,0,None,Mixed,10,2,2.4,100,91
+S00166,20,Male,South Korea,Engineering,2,4,4.1,94,7.6,2.6,1.7,1.9,2.6,Yes,In a Relationship,High,Average,2,0.9,Copilot,Mixed,12,1,0,100,93
+S00167,27,Female,France,Mathematics,4,4,4.7,100,8.8,7.1,2.5,2.2,2.9,No,In a Relationship,Middle,Poor,2.6,3,Claude,Handwritten,6,1,7.6,100,100
+S00168,23,Female,Germany,Mathematics,3,4,6.3,100,7.1,5.7,1.6,0.6,0.7,No,In a Relationship,High,Good,4.6,0.9,Gemini,Digital,11,2,4,100,100
+S00169,24,Female,Australia,Computer Science,3,2.88,3.1,89,5.8,5.5,2.9,2.7,5.1,No,Single,Low,Good,3.3,0,None,Mixed,21,0,4.6,83,93
+S00170,28,Male,USA,Engineering,3,3.58,2.4,80,6.4,6.3,2.9,1.3,4.3,No,In a Relationship,High,Good,6,0.8,Claude,Mixed,16,2,5.6,100,92
+S00171,26,Female,India,Mathematics,4,3.61,2.2,83,9.1,6.1,3.2,2.4,4.8,No,In a Relationship,High,Good,4.6,2.9,Gemini,Handwritten,11,0,2.6,100,89
+S00172,24,Male,UK,Mathematics,2,3.07,2.3,85,8.1,9.1,5.4,3.4,0.6,Yes,Single,Middle,Good,5.2,0,None,Digital,22,0,3.5,88,82
+S00173,27,Female,Germany,Computer Science,1,3.73,3.4,91,7.8,5.2,2.6,1.6,5.3,Yes,In a Relationship,Middle,Average,2.8,1.2,ChatGPT,Digital,9,1,2.4,97,90
+S00174,22,Female,Netherlands,Economics,4,3.84,4,100,7.4,7.9,4.3,2.4,5,No,In a Relationship,Low,Poor,3.6,1.9,Copilot,Digital,14,2,3.2,100,92
+S00175,25,Male,USA,Mathematics,1,3.62,3.9,82,6.2,6.2,3.1,3.3,2.5,Yes,In a Relationship,Middle,Average,6.2,0.1,None,Digital,10,3,4.6,98,86
+S00176,25,Male,Italy,Business,2,4,4.7,100,6.8,4.9,2.4,0.2,4.8,No,Single,Middle,Poor,3,1.4,Claude,Mixed,11,3,2.9,100,100
+S00177,25,Female,Japan,Engineering,4,4,3.5,95,6.9,5.8,2.6,1.7,3.5,Yes,In a Relationship,High,Average,4.9,0.3,Copilot,Mixed,14,1,4.8,100,94
+S00178,22,Male,India,Medicine,1,3.98,5.7,100,7.7,8.9,2.7,0,0,No,In a Relationship,High,Good,4.4,0,None,Digital,15,1,4.6,100,100
+S00179,19,Male,France,Business,1,3.89,3.1,88,8.8,5.4,3.2,1.3,2.6,No,In a Relationship,Low,Average,4.4,1.8,Copilot,Digital,11,3,5.8,100,88
+S00180,28,Female,Bangladesh,Physics,3,4,7.6,100,8.3,4.1,1.4,2.7,2,No,In a Relationship,Middle,Average,2.4,3,Claude,Mixed,8,2,8.2,100,100
+S00181,25,Male,UK,Engineering,3,3.75,4.4,100,5.3,2.8,0.6,0,3.2,Yes,In a Relationship,Middle,Good,3.4,0.8,Gemini,Mixed,21,1,6.1,100,95
+S00182,20,Male,Italy,Psychology,3,3.43,2.2,88,7.3,6.1,3.8,0.4,5,No,In a Relationship,Middle,Average,3.9,1.8,Copilot,Mixed,13,1,3.7,100,95
+S00183,28,Female,Australia,Business,4,3.21,1.9,76,7.9,8.1,4.1,0,0,No,Single,Low,Good,4.2,1.7,Gemini,Digital,7,1,2.5,93,89
+S00184,21,Female,Netherlands,Psychology,3,3.92,4.2,94,7.7,7.8,3.9,2.6,2.1,No,Single,Middle,Average,5.7,1.4,ChatGPT,Mixed,7,3,4.5,100,100
+S00185,21,Male,Brazil,Law,2,3.61,3.2,93,6.2,6,3,2.1,1.4,Yes,Single,Middle,Good,4,0.5,Copilot,Handwritten,22,1,2,100,91
+S00186,27,Female,Italy,Computer Science,2,4,4.6,95,10,8.2,4,3,1.4,No,Single,Low,Good,3.2,0.2,None,Handwritten,24,3,0,100,98
+S00187,20,Female,Canada,Business,1,3.54,4.2,98,5.5,7.9,3.9,2.7,1.4,Yes,Single,Middle,Average,6.7,0.4,ChatGPT,Mixed,14,1,6.5,100,100
+S00188,25,Female,Japan,Biology,1,3.32,3.4,86,5.7,6.8,4,0.8,3.1,No,In a Relationship,High,Average,6.1,1,Claude,Digital,9,0,2.3,100,88
+S00189,23,Female,Canada,Law,4,3.34,2.2,96,7.3,2.7,1.5,1.3,4,No,Single,Low,Average,4.8,0.8,Claude,Handwritten,14,1,5.8,99,83
+S00190,18,Female,UK,Mathematics,3,3.35,1.2,82,9.5,5.2,1.2,1,3.7,No,Single,High,Average,1,0.1,None,Handwritten,10,5,5,92,91
+S00191,18,Male,Netherlands,Computer Science,3,3.52,2.8,100,6,5.4,2.2,3.4,3.4,Yes,In a Relationship,Middle,Good,4.3,1,Copilot,Handwritten,15,2,4.5,95,93
+S00192,18,Male,Netherlands,Computer Science,2,4,4.8,100,6.7,5.8,2.8,2.2,4.2,No,Single,Middle,Good,4,0.6,Claude,Mixed,14,4,5.5,100,97
+S00193,19,Male,Brazil,Engineering,3,3.9,3.8,100,8.3,4.8,2.4,2.8,7.8,Yes,In a Relationship,High,Good,1.9,1.8,Copilot,Handwritten,12,1,2.7,88,100
+S00194,21,Female,India,Physics,2,3.53,1.6,80,7,3.9,0,2.5,3.3,No,Single,Middle,Good,3.2,0.8,Claude,Mixed,12,0,2.5,100,95
+S00195,18,Male,Germany,Mathematics,2,3.08,3.8,91,6.6,8.8,5.4,0.9,5,Yes,In a Relationship,Low,Good,4.5,2,Gemini,Mixed,11,2,0,90,97
+S00196,21,Female,India,Computer Science,2,3.81,4.1,95,7.7,5.1,2.4,0.3,4.9,No,In a Relationship,Middle,Poor,3.4,1.4,ChatGPT,Handwritten,17,2,5.9,100,100
+S00197,21,Female,Bangladesh,Computer Science,4,3.19,2.2,71,7.3,4.6,3.1,2.1,6.6,No,Single,Middle,Good,6.8,0.7,ChatGPT,Mixed,11,1,7,91,91
+S00198,18,Male,France,Psychology,3,4,3.7,91,8.2,9,4.7,3.4,4.1,Yes,Single,Middle,Good,4.5,1,ChatGPT,Digital,22,6,5.5,100,96
+S00199,27,Female,Italy,Business,4,4,3.6,100,8.5,3.7,0,1.9,1.3,No,Single,Middle,Good,3.1,1.1,ChatGPT,Mixed,23,1,3.4,100,93
+S00200,26,Female,Brazil,Economics,1,3.18,1.8,83,7.4,5.3,2,0,3.6,No,In a Relationship,Low,Good,4.3,1.4,Gemini,Digital,10,1,6.5,98,84
+S00201,21,Female,Germany,Engineering,2,4,4,96,7.4,2,2.2,2.2,3.5,No,In a Relationship,High,Average,3.8,1.6,Gemini,Mixed,10,1,6.8,100,90
+S00202,21,Male,France,Economics,1,4,4.3,98,7.3,5.3,2.3,0.8,4.6,Yes,Single,Middle,Average,2.3,0.7,Gemini,Digital,12,2,1.3,100,99
+S00203,23,Male,South Korea,Mathematics,1,4,5.1,100,7.6,5.2,2.5,0,1.3,No,In a Relationship,High,Average,2.4,1,ChatGPT,Mixed,9,0,3.3,100,88
+S00204,24,Female,Netherlands,Economics,2,3.95,5.1,100,7.1,7.3,5,3.6,5.5,No,Single,Low,Average,4.4,1.3,Claude,Digital,16,4,0.6,100,100
+S00205,19,Female,Japan,Medicine,3,2.96,1.4,63,7,7.7,3.8,0.4,3,No,In a Relationship,Middle,Good,4.2,0,None,Mixed,18,0,1.4,89,85
+S00206,23,Female,France,Engineering,2,3.55,2.1,79,8.4,8.1,4.2,3.2,4.7,Yes,In a Relationship,Low,Average,1.8,1.8,Claude,Handwritten,18,2,6.4,99,95
+S00207,21,Female,Bangladesh,Biology,2,3.72,4.3,99,8.8,6.4,2.9,3.3,3.6,Yes,In a Relationship,Middle,Average,5,0.2,None,Digital,11,2,5.1,99,100
+S00208,18,Female,Australia,Engineering,4,3.79,4.3,93,5.2,4.9,0.7,2,3.2,Yes,Single,Middle,Poor,3.9,0.9,Gemini,Mixed,11,1,3.5,100,94
+S00209,23,Male,Japan,Economics,2,4,4.3,100,7,1.8,0,0.4,3.5,No,Single,Middle,Poor,4.3,0.5,ChatGPT,Mixed,2,4,2.8,100,91
+S00210,27,Female,Netherlands,Psychology,4,4,9.3,100,6.2,3,0.5,3,4.3,No,Single,Middle,Average,1,1.9,Gemini,Digital,9,1,1.8,100,100
+S00211,23,Female,Brazil,Psychology,1,4,4.4,93,6.6,6.4,3.3,0.5,6.9,No,In a Relationship,Middle,Good,5.1,2.2,Claude,Mixed,7,4,5.1,100,97
+S00212,20,Female,Brazil,Medicine,3,4,5.2,100,7.5,5.1,2.8,1.4,0,No,In a Relationship,Low,Good,4,1.1,Copilot,Mixed,6,0,4.6,99,91
+S00213,27,Male,Bangladesh,Economics,4,3.81,4.9,93,7.8,6.4,2.5,1.2,4.1,Yes,In a Relationship,High,Average,4.7,1.1,Copilot,Digital,10,4,6.2,100,100
+S00214,19,Female,Bangladesh,Medicine,4,4,4.5,84,6.9,4.6,2.2,1,3.1,Yes,In a Relationship,Low,Average,4.1,1.2,Claude,Digital,10,2,5,100,100
+S00215,20,Female,Australia,Economics,1,3.27,3,89,4.7,10.4,5.8,1.8,2.6,Yes,Single,Middle,Good,6.6,1.2,Gemini,Mixed,12,1,5.2,89,100
+S00216,27,Male,South Korea,Law,4,3.8,4.6,100,5.8,3.5,1.6,0,0,No,Single,Low,Average,5.1,2.2,Claude,Mixed,19,2,3.3,100,95
+S00217,21,Female,Italy,Physics,1,3.28,2.3,87,8.1,9.8,4.2,0.6,4.2,No,Single,Middle,Poor,3.6,4.2,ChatGPT,Handwritten,18,0,3,87,87
+S00218,28,Male,Bangladesh,Business,1,3.22,3.1,86,3.7,8.2,2.8,0.3,2.8,Yes,Single,Low,Average,4.6,1,Copilot,Mixed,6,1,3.8,100,97
+S00219,28,Female,UK,Biology,1,3.33,2.8,89,8.4,5.6,2.7,2.2,1.3,No,In a Relationship,Middle,Good,3.5,1.8,Gemini,Digital,14,0,1.7,100,87
+S00220,19,Female,USA,Computer Science,3,4,3.6,100,7.6,9,4.6,2.4,3.1,No,In a Relationship,High,Average,3.1,0.4,Copilot,Handwritten,8,0,3.1,97,98
+S00221,26,Male,Brazil,Medicine,2,4,7,100,8.6,7.5,5,1.2,2.4,Yes,In a Relationship,High,Good,4,0.4,Claude,Digital,13,4,4.4,100,100
+S00222,27,Male,Germany,Economics,3,3.28,0.7,95,6.8,6.6,2.4,2.3,0,No,In a Relationship,Low,Average,3.9,0.2,None,Handwritten,19,2,4.2,80,100
+S00223,23,Female,Bangladesh,Computer Science,2,3.76,4.5,100,4.5,6.8,4,1.4,3.2,No,Single,Middle,Poor,3.9,2.5,ChatGPT,Handwritten,10,2,5.5,100,81
+S00224,22,Male,USA,Mathematics,1,2.96,1.1,80,7.5,4.8,3.3,1.1,4.2,No,In a Relationship,Middle,Poor,4.3,1.9,ChatGPT,Handwritten,7,0,4.6,96,83
+S00225,24,Male,Brazil,Economics,4,3.73,2.8,89,8.5,1.6,2.8,1.9,1.9,No,Single,High,Average,3.8,0.8,Copilot,Digital,12,1,4.7,99,88
+S00226,28,Female,Canada,Engineering,2,4,5.1,100,8.1,5.8,3.1,1.8,3.5,No,Single,High,Poor,4,1.4,ChatGPT,Digital,19,2,2.1,100,100
+S00227,24,Female,Australia,Economics,2,3.65,3.6,91,6.2,5.1,1.8,0.1,3.2,No,In a Relationship,Low,Average,4.6,2,Copilot,Handwritten,22,0,10.6,100,86
+S00228,20,Female,Brazil,Business,3,3.39,1.9,87,7.1,6.9,2.3,2.7,5.1,No,In a Relationship,Low,Average,3.2,2.4,Gemini,Handwritten,9,1,3.4,85,95
+S00229,23,Female,Italy,Psychology,4,3.73,2.4,91,6.4,4.9,1.9,0,2.8,No,Single,Middle,Average,3,1.6,Claude,Digital,13,1,7.8,82,81
+S00230,26,Female,Australia,Psychology,1,3.45,4.5,85,6,8.4,4.2,0,4.6,No,In a Relationship,High,Good,5,1.3,Gemini,Mixed,13,2,0.8,100,97
+S00231,22,Male,Australia,Computer Science,3,4,2.4,100,8.1,5.2,2.7,0.2,2.4,No,Single,Low,Good,1,2.5,ChatGPT,Digital,5,2,5.2,100,100
+S00232,24,Female,South Korea,Computer Science,4,3.83,3.8,90,5.6,3.5,0.9,1.5,6.9,Yes,Single,Middle,Good,2.9,0.1,None,Digital,5,2,3.9,98,97
+S00233,28,Female,Canada,Physics,4,3.43,3.6,72,5.9,6,1.7,3.5,2.1,No,In a Relationship,High,Average,5,0,None,Handwritten,14,3,2.9,100,77
+S00234,22,Male,Germany,Engineering,2,3.62,2.5,88,5.7,1,0,3.2,1.6,No,Single,High,Average,4.7,2.5,Gemini,Handwritten,10,1,4.7,99,95
+S00235,20,Male,Brazil,Engineering,3,4,6.7,100,5.2,5.1,2.1,0.3,2.8,Yes,Single,Low,Good,3.9,0.8,Gemini,Handwritten,5,0,2.5,100,100
+S00236,26,Female,Japan,Psychology,1,3.93,4.5,100,7.2,5.4,2.9,1.4,1.5,Yes,In a Relationship,Middle,Poor,2.1,2.5,Gemini,Digital,15,1,7.8,100,100
+S00237,22,Female,India,Engineering,2,3.32,0.5,76,8.4,7.2,2.6,0,0.5,No,Single,Middle,Average,1.4,3.1,ChatGPT,Handwritten,12,2,6.5,85,93
+S00238,28,Female,Brazil,Physics,1,3.56,3.8,92,6.8,8.2,5.8,0.6,4.5,No,Single,Middle,Good,5.7,3.1,ChatGPT,Mixed,12,2,4.2,89,83
+S00239,18,Male,Germany,Mathematics,4,3.34,2.5,89,5.2,7.3,3.7,4,0,No,Single,Low,Average,5.3,0,None,Handwritten,7,2,2.5,100,98
+S00240,20,Male,Germany,Psychology,3,3.98,4.8,94,8,7.7,3.6,1.2,1.6,No,Single,Middle,Poor,6.3,2,Gemini,Handwritten,3,1,5.6,100,100
+S00241,20,Male,Canada,Economics,2,3.69,2.3,91,9,1.5,0.3,3,0.3,Yes,Single,Middle,Average,1.5,0.7,ChatGPT,Mixed,9,0,0.6,100,80
+S00242,27,Male,Canada,Business,2,3.56,3.3,96,6.2,5.1,2.3,2.6,3.3,No,In a Relationship,Low,Good,4.4,0.5,Copilot,Handwritten,12,2,0.9,100,83
+S00243,18,Female,Bangladesh,Mathematics,1,3.99,4.3,93,6.4,4.6,2.1,0.6,0,No,Single,Low,Good,6.3,1.6,Claude,Handwritten,8,0,2.1,100,98
+S00244,25,Male,France,Engineering,2,4,4.8,91,7.6,5.7,1.6,0.4,4.1,Yes,Single,Low,Average,3.4,0.6,Gemini,Mixed,7,1,0,100,89
+S00245,23,Female,Japan,Law,4,3.98,1.7,91,8.9,5.4,1.6,1.4,4.3,Yes,In a Relationship,Middle,Good,1.1,1.9,ChatGPT,Handwritten,10,3,0,91,100
+S00246,22,Female,India,Economics,2,3.45,3,89,6.4,2.8,0.1,1.3,0,No,Single,Middle,Good,6.6,2.5,Claude,Mixed,12,6,6,91,96
+S00247,27,Male,USA,Medicine,2,3.37,2.8,84,5.4,2.6,0.9,2.7,3.4,Yes,In a Relationship,High,Average,5.4,1,ChatGPT,Handwritten,19,1,2.8,100,95
+S00248,24,Female,Canada,Biology,1,3.8,2.5,86,7.8,8.3,4.1,1.1,4,No,In a Relationship,Middle,Average,3.9,1.6,Gemini,Mixed,13,2,4.3,92,82
+S00249,23,Female,Bangladesh,Psychology,4,4,6.1,100,8,5.5,2.6,2.6,4.9,No,Single,Low,Good,4.1,0.7,Gemini,Mixed,5,1,3.2,100,96
+S00250,20,Male,Italy,Economics,4,4,4.1,100,7,3.1,2,0.6,0.1,No,Single,Low,Average,5.2,1.7,Copilot,Handwritten,2,2,3.5,100,100
+S00251,21,Male,Brazil,Physics,2,3.25,1.6,68,6.3,4,2.8,1.5,0,Yes,In a Relationship,Low,Average,5.6,2.6,Copilot,Digital,1,1,1.6,80,77
+S00252,21,Male,Netherlands,Economics,1,3.55,4.9,100,8.2,8.1,4.6,0.2,6,No,Single,Low,Average,2.4,1.6,Gemini,Handwritten,14,4,3.6,100,90
+S00253,18,Female,South Korea,Business,1,4,6.7,100,7.6,4.3,2.8,0,1.4,No,In a Relationship,Middle,Average,4.5,1.1,Gemini,Digital,7,4,2.5,100,100
+S00254,26,Male,Canada,Computer Science,3,4,5,97,6.1,8.8,3.6,0.3,1.9,No,In a Relationship,Low,Average,6.4,2.5,Claude,Mixed,14,1,3.5,100,98
+S00255,23,Male,Australia,Mathematics,2,2.94,1.2,73,7.1,3.4,1.5,2.2,4.3,Yes,Single,High,Average,3.8,0.8,ChatGPT,Handwritten,18,2,1.1,86,88
+S00256,20,Female,UK,Economics,1,3.48,2.8,87,5.4,4.9,1.9,3.3,0.7,No,In a Relationship,Low,Poor,5.1,0.8,ChatGPT,Handwritten,15,2,4.1,100,79
+S00257,28,Female,Japan,Business,2,4,5.4,100,7.8,6.5,3.3,1.3,2.5,No,Single,High,Good,3.6,0.5,Copilot,Digital,11,2,3.6,100,100
+S00258,25,Male,Japan,Biology,4,3.49,2.4,80,6.7,7.7,5.6,2.1,4.8,No,In a Relationship,High,Average,4,0,None,Digital,21,2,2.6,96,89
+S00259,18,Female,Germany,Psychology,1,3.6,4.2,95,6.5,5.2,4.9,1.1,0.2,No,In a Relationship,High,Poor,4.1,0.3,Gemini,Handwritten,10,0,6.7,100,94
+S00260,27,Female,South Korea,Biology,2,4,4.7,100,7,6.9,3.7,0.9,2,Yes,In a Relationship,Middle,Average,5.4,1.3,Gemini,Mixed,7,1,1.8,100,98
+S00261,19,Male,Netherlands,Engineering,2,3.53,2.1,84,7,5.1,3,2.9,0.7,No,In a Relationship,Middle,Good,4.4,1.4,Copilot,Digital,14,1,3.3,100,87
+S00262,27,Male,UK,Medicine,1,3.45,3.4,100,8.1,8,4.9,3.2,1.5,No,Single,Low,Average,3.5,0.2,None,Digital,16,3,3.7,94,92
+S00263,18,Female,Netherlands,Engineering,2,2.89,0.5,57,7.7,6.9,4,3.3,5.4,No,In a Relationship,Middle,Good,4.8,0.7,Copilot,Mixed,1,2,5.5,91,78
+S00264,22,Male,France,Computer Science,2,3.64,2,70,6.8,3.3,0,2.6,5.8,Yes,In a Relationship,Middle,Average,1.9,0,None,Mixed,18,5,5.9,100,84
+S00265,28,Male,France,Business,4,4,3.1,96,7.9,6.1,1.2,1.1,3.5,No,In a Relationship,Middle,Poor,2.2,3.4,ChatGPT,Handwritten,4,3,0,100,100
+S00266,27,Female,South Korea,Physics,3,3.49,1.6,82,7.5,5.6,3.3,0.7,4.1,No,Single,Middle,Average,3.4,2.7,Copilot,Handwritten,2,1,7.3,100,94
+S00267,28,Male,South Korea,Psychology,3,4,5.9,100,6.5,2.5,0.1,0,4,Yes,Single,Middle,Average,2.8,0.5,Gemini,Digital,10,0,6.4,100,88
+S00268,26,Male,UK,Physics,3,3.06,1.4,81,6.9,2.5,1.5,4,1.7,Yes,In a Relationship,Low,Good,4.3,1.3,Gemini,Digital,7,1,2.1,90,88
+S00269,28,Female,France,Business,3,4,2.8,98,6.8,4.6,1.8,0,3.5,No,Single,Middle,Good,2.8,0.3,Gemini,Handwritten,14,0,7.3,96,94
+S00270,27,Male,Brazil,Economics,4,4,3.7,100,7.6,5.9,2.4,1.5,0.4,No,Single,Middle,Poor,5.2,2.2,ChatGPT,Handwritten,14,0,5.2,98,95
+S00271,20,Male,UK,Economics,1,4,5.7,100,6.6,4.8,2.4,0,1.1,No,In a Relationship,High,Average,4.9,1.8,Gemini,Digital,14,1,5.1,100,100
+S00272,28,Female,Bangladesh,Physics,3,3.05,1.3,79,6.5,5.9,2.4,2.9,2.8,Yes,Single,High,Average,3.6,0,None,Digital,18,2,2.9,97,70
+S00273,26,Male,Netherlands,Mathematics,2,4,5.2,100,9.4,6.8,4,2,0.9,No,Single,Low,Good,4,0.2,None,Digital,10,0,4.5,100,98
+S00274,24,Female,Brazil,Economics,2,3.78,3.5,86,8.1,3.8,2.4,3.2,0.5,No,In a Relationship,Low,Average,3.6,1.1,Claude,Mixed,14,2,4.5,99,100
+S00275,19,Female,Italy,Computer Science,3,2.91,2,75,6.1,5.6,2.2,1.8,1.6,Yes,Single,Middle,Poor,4.5,2.6,Gemini,Digital,4,4,1.2,98,79
+S00276,24,Female,Italy,Biology,1,4,4.2,100,7.7,3.6,0.8,2.4,5.3,No,Single,Middle,Average,4.1,0.8,ChatGPT,Digital,17,2,1.8,100,100
+S00277,19,Male,UK,Economics,3,3.72,3.8,78,7.1,7.4,4.3,2,6.1,Yes,Single,Middle,Average,3.6,2.5,ChatGPT,Handwritten,9,2,2.5,100,94
+S00278,21,Female,Australia,Physics,4,3.48,2.6,81,7.5,4.1,1.8,3.2,2.9,No,Single,Middle,Average,3.7,1.5,Gemini,Mixed,11,1,2.2,89,78
+S00279,20,Female,Italy,Computer Science,3,3.62,3.6,87,7.2,3.4,1.2,2,4.2,No,Single,High,Average,2.4,0.4,Claude,Handwritten,10,0,5.3,100,97
+S00280,18,Female,Canada,Medicine,2,3.84,2.9,98,8.4,6.3,3.1,2.8,1.9,Yes,Single,Middle,Good,4.5,0.8,ChatGPT,Mixed,12,2,3.2,99,95
+S00281,25,Male,UK,Engineering,1,4,3.7,89,7.4,4.3,1.6,4.1,0,Yes,In a Relationship,Middle,Poor,4.3,1.8,Gemini,Digital,10,3,9.5,97,97
+S00282,24,Female,Japan,Computer Science,4,3.94,4.5,100,6.9,7.1,2,0.5,1.2,No,Single,Middle,Poor,5.5,2,Copilot,Handwritten,1,2,6.4,99,98
+S00283,23,Female,Italy,Law,4,4,5.9,100,8.3,7.2,3.2,0.5,2.4,Yes,In a Relationship,High,Good,3.1,2.1,ChatGPT,Handwritten,18,1,1.5,100,100
+S00284,22,Female,Canada,Biology,2,3.37,1.6,95,7.3,6,2.3,3.1,3.3,No,In a Relationship,Middle,Average,4.4,1.4,Claude,Mixed,9,1,3.5,100,100
+S00285,27,Female,France,Physics,4,4,6.7,100,7.1,9.1,6.3,1.8,2.8,Yes,In a Relationship,High,Average,6.7,1.6,ChatGPT,Digital,10,1,3.8,100,100
+S00286,25,Male,USA,Biology,3,3.11,0.6,82,7.4,3.3,2.7,1.9,2.4,No,In a Relationship,High,Average,3.6,3.5,ChatGPT,Handwritten,11,1,1.9,93,84
+S00287,22,Female,USA,Economics,2,3.74,3.3,93,6.9,5.7,3.7,2.4,1.9,No,In a Relationship,High,Average,4.6,3.6,ChatGPT,Mixed,15,1,2,94,94
+S00288,18,Male,Brazil,Economics,2,4,4.4,100,7,2.2,0,1.8,3.7,No,Single,Middle,Good,3,1.2,Gemini,Digital,10,3,2.4,100,92
+S00289,26,Male,Japan,Biology,3,4,3.9,97,6.3,4.2,1.5,0,0.3,Yes,In a Relationship,Middle,Average,4.1,0,None,Handwritten,17,1,4.1,100,91
+S00290,23,Male,India,Biology,1,3.99,2.6,88,6.1,4.2,1.2,1.8,4.6,No,In a Relationship,Middle,Average,3.6,1.3,Copilot,Mixed,21,1,7.1,95,100
+S00291,28,Male,South Korea,Biology,1,3.49,3.2,88,5.8,5.2,1.4,0.1,1.8,Yes,Single,Low,Average,4.8,1.3,Claude,Mixed,20,6,3.9,98,83
+S00292,19,Male,UK,Mathematics,2,3.2,2.8,91,5.3,6.7,3.4,2.2,7.1,No,In a Relationship,Middle,Average,4,0,None,Digital,13,0,4.6,97,87
+S00293,18,Female,Bangladesh,Economics,2,2.88,2.6,100,5.9,8.8,4.4,2.1,2.4,No,In a Relationship,Middle,Poor,5.1,1.3,Copilot,Handwritten,9,1,4.7,77,82
+S00294,18,Male,France,Economics,2,3.91,4.8,100,6.8,5.9,3.3,1.9,2,Yes,In a Relationship,Low,Good,4.8,0.2,None,Mixed,9,1,5.5,100,97
+S00295,20,Female,Italy,Medicine,3,3.81,4,100,7.1,5.8,2.5,1.3,1.9,Yes,In a Relationship,Middle,Average,3.7,1.6,Claude,Mixed,10,2,3.5,100,88
+S00296,22,Female,Brazil,Engineering,2,3.61,2.5,91,6.7,5.3,1.9,4.2,2.1,No,Single,Low,Good,3.6,1.8,Copilot,Mixed,8,0,6,100,96
+S00297,23,Male,France,Law,1,3.42,4.8,72,4.2,7.8,4.5,4.4,4.2,No,Single,Low,Average,4.6,1.7,Copilot,Handwritten,14,1,4,100,92
+S00298,19,Male,Germany,Computer Science,3,3.32,4,98,8.9,10.4,5.9,0,2.9,No,Single,Low,Good,4.6,2.2,Gemini,Handwritten,11,3,4.3,100,99
+S00299,25,Female,Netherlands,Mathematics,2,3.8,4.7,100,8.3,7,3,0.9,5,Yes,In a Relationship,Middle,Good,3.7,1.7,Copilot,Digital,12,3,0.3,100,98
+S00300,20,Male,Bangladesh,Computer Science,2,3.65,4.4,87,7.5,5.6,4.2,3.7,3.9,No,Single,Low,Good,4,2,Copilot,Handwritten,10,2,4.7,100,95
+S00301,20,Female,Italy,Economics,4,3.47,2.3,74,9.3,6.2,3.3,2.8,3.1,No,In a Relationship,Middle,Good,2.7,2.5,ChatGPT,Digital,14,1,2.9,98,86
+S00302,24,Male,Brazil,Biology,2,3.85,2.7,86,5.8,6.9,3.9,1.2,3.7,Yes,In a Relationship,Middle,Good,4.7,0.8,ChatGPT,Digital,13,2,4.7,100,95
+S00303,20,Female,Bangladesh,Psychology,4,4,4.6,100,9.3,6.7,1.1,3.1,5.4,Yes,Single,Low,Good,2.5,1.1,Claude,Handwritten,10,0,1.7,100,100
+S00304,23,Male,India,Mathematics,1,3.89,4.4,95,5.8,4.7,2.1,0.5,4.3,No,In a Relationship,Middle,Good,4.1,0.8,ChatGPT,Digital,11,1,4.6,100,100
+S00305,26,Female,Italy,Biology,4,3.44,3.5,90,7.3,5.2,3.4,0.6,3.6,Yes,Single,Middle,Good,6.3,0.5,Gemini,Digital,11,3,0.2,100,93
+S00306,27,Female,South Korea,Business,4,3.4,3.7,100,5.5,8.1,4.6,1.5,3.8,No,Single,Middle,Good,4.5,0.9,Copilot,Mixed,15,3,5.9,100,76
+S00307,28,Female,Canada,Psychology,1,4,5.4,100,7,5.2,1.6,2.1,0.7,No,In a Relationship,High,Good,3.9,2,Gemini,Digital,8,2,1.6,100,98
+S00308,18,Male,Italy,Computer Science,2,4,2.6,83,7.5,2.9,0,2.1,8.1,No,Single,Middle,Average,2.5,1.9,ChatGPT,Mixed,10,2,5.7,100,100
+S00309,18,Male,Germany,Psychology,1,4,4.3,94,6.8,4.8,2.1,1.9,4.1,Yes,Single,Low,Good,2.9,0,None,Digital,3,2,2,100,91
+S00310,21,Female,India,Business,1,3.81,3.2,100,7.9,8.4,4.3,1.7,4.3,No,In a Relationship,High,Good,6,2.9,Copilot,Digital,7,1,4.8,100,94
+S00311,19,Female,UK,Mathematics,1,3.75,3.2,90,7.1,2.4,0.4,1.3,2.9,No,In a Relationship,Middle,Good,3.1,2,Claude,Mixed,11,2,2.8,100,89
+S00312,27,Female,Japan,Engineering,4,4,5.1,100,6.4,3.6,1,1,0,No,In a Relationship,Low,Average,4.7,1.4,Gemini,Digital,10,1,2.5,100,97
+S00313,23,Male,UK,Economics,2,4,4.7,100,6.3,5.4,3,1.5,2.5,Yes,Single,Middle,Poor,4.5,0,None,Mixed,2,2,5.2,100,100
+S00314,22,Female,Bangladesh,Computer Science,4,4,4.7,100,8,6.9,2.6,1.9,3.2,No,In a Relationship,High,Average,4.6,0,None,Digital,15,1,2.8,100,100
+S00315,19,Female,Germany,Physics,3,4,5.5,100,6.2,7,3.7,0.5,1.4,Yes,In a Relationship,Low,Average,4,2.7,Gemini,Digital,8,3,5.4,100,100
+S00316,26,Female,Bangladesh,Physics,2,4,3.5,100,8.1,2.7,1,0,1.3,Yes,In a Relationship,Middle,Good,4.9,2.2,Claude,Mixed,4,0,3,100,100
+S00317,23,Female,Germany,Business,3,4,4.5,100,8.5,4.1,2.3,1.6,2.3,Yes,Single,High,Average,3.7,2.3,Claude,Mixed,14,1,5,100,100
+S00318,20,Male,France,Mathematics,4,3.06,3,91,5,9.8,4.6,1.7,4.5,No,Single,Middle,Good,5.8,1.1,ChatGPT,Digital,16,3,5.2,100,94
+S00319,26,Male,Australia,Engineering,2,3.71,4,93,8.4,5.3,1,1,5.5,No,Single,Low,Average,1.6,2.5,Claude,Mixed,1,1,2.7,100,100
+S00320,19,Male,Germany,Business,4,3.71,3.3,93,9.5,9,5,0.8,3.3,Yes,In a Relationship,High,Average,4.4,0,None,Handwritten,15,3,4.2,92,88
+S00321,26,Male,Japan,Engineering,1,4,3.6,93,7.3,4.2,1.2,1.7,1.9,No,In a Relationship,Middle,Good,2.6,0,None,Digital,11,3,3.7,100,96
+S00322,18,Female,Bangladesh,Law,1,3.56,4.4,100,7.7,8.9,4.1,1.4,2.3,No,In a Relationship,Middle,Good,5.7,2.2,Gemini,Mixed,11,5,3.9,100,95
+S00323,25,Female,Brazil,Biology,2,3.44,2.3,87,8.2,3.9,2.2,1.4,3.2,No,In a Relationship,Middle,Good,2.1,0.3,Copilot,Mixed,6,2,5.3,88,94
+S00324,26,Male,Brazil,Biology,4,4,6.6,100,6.7,5,1.1,4.1,3.4,Yes,In a Relationship,Middle,Good,3.6,1.2,Claude,Mixed,11,5,1.2,100,100
+S00325,23,Female,Germany,Psychology,2,3.18,2,81,7.2,4.6,2.1,0,3.9,Yes,In a Relationship,Middle,Good,3.2,0,None,Handwritten,12,3,6.3,80,93
+S00326,27,Male,South Korea,Biology,3,2.61,1.7,76,5.4,6.3,3.6,0,2.1,No,In a Relationship,High,Average,3.6,0,None,Digital,23,2,0.5,85,77
+S00327,27,Female,Brazil,Biology,4,3.57,5.2,100,7.2,6.7,2.8,1.3,4.1,Yes,Single,High,Average,2.8,0.2,None,Mixed,15,4,2.9,100,100
+S00328,25,Male,USA,Psychology,1,3.63,4.7,91,7.6,7.3,4.5,2.4,3.9,No,Single,Middle,Average,4.8,0.8,Gemini,Mixed,12,2,4,100,99
+S00329,26,Female,UK,Business,4,3.76,4.4,100,7.6,7.5,5,0.6,2.2,No,Single,Middle,Average,4,0.3,ChatGPT,Digital,18,0,3.2,100,100
+S00330,21,Female,France,Physics,4,4,4.4,100,8.3,3.4,1,0,0,Yes,Single,Middle,Average,2.8,1.8,Gemini,Digital,16,0,6.7,100,95
+S00331,18,Female,Germany,Engineering,1,3.71,3.5,98,6.1,1.5,0.9,1.3,1.2,No,In a Relationship,High,Good,4.4,2.2,Copilot,Mixed,5,0,4.9,100,89
+S00332,20,Female,Japan,Medicine,4,3.49,2.2,91,6.4,4.7,0.8,1.3,6.1,No,Single,High,Average,3.8,1.8,Claude,Mixed,15,4,3,92,93
+S00333,28,Male,Australia,Business,3,4,3.6,100,9.3,3.3,1.5,0,0,No,Single,High,Good,4,0,None,Digital,12,1,4.2,100,100
+S00334,22,Male,Netherlands,Psychology,3,3.07,2.5,76,6.8,9.7,4.5,2,5.6,Yes,In a Relationship,Low,Good,4.3,1.7,Claude,Handwritten,8,0,6.3,87,87
+S00335,22,Female,India,Physics,3,4,5,100,7.2,6.3,3.6,1.3,0,No,In a Relationship,Middle,Average,5.1,0,None,Digital,7,1,6.3,100,100
+S00336,18,Female,South Korea,Psychology,2,4,3.3,77,6.9,6.6,2,2.2,1.5,Yes,In a Relationship,Middle,Average,4.2,3.1,Copilot,Mixed,11,3,6.5,100,92
+S00337,25,Female,UK,Business,1,3.1,2.3,72,6,3.6,2.8,2.1,2.3,Yes,In a Relationship,Low,Average,3.5,1.2,Gemini,Mixed,12,1,4.5,87,93
+S00338,23,Male,France,Biology,2,3.26,3,88,8.9,8.8,4.9,0,6.6,No,Single,High,Good,3.8,0.3,Gemini,Digital,18,3,4.8,99,92
+S00339,23,Male,USA,Medicine,1,3.79,4.1,100,6.4,9.9,5.7,1.5,3.1,No,In a Relationship,High,Good,4.4,1.3,Copilot,Mixed,1,2,3.7,100,92
+S00340,18,Female,South Korea,Law,4,3.78,2.7,96,5.6,7.8,3.2,1.4,2.6,No,In a Relationship,High,Poor,5.4,1.4,Claude,Digital,6,3,5.2,100,90
+S00341,19,Female,Canada,Computer Science,4,3.03,2.3,97,6.5,1.2,0,0.9,1.1,Yes,Single,Low,Good,3.6,1.9,ChatGPT,Mixed,13,2,5.6,95,80
+S00342,22,Female,South Korea,Economics,1,3.41,3.9,78,4.6,5.4,3.2,1.9,4,No,In a Relationship,High,Average,2.7,0,None,Mixed,11,3,6,99,87
+S00343,19,Male,South Korea,Engineering,3,3.59,3.9,94,6.2,7.9,4.2,1.1,2,Yes,Single,Low,Good,6.1,0.5,Claude,Digital,13,1,6.1,85,86
+S00344,27,Male,Germany,Medicine,1,3.71,2.7,77,5.8,6.3,3.1,0.6,2.5,No,In a Relationship,Low,Average,4.2,1.7,Claude,Digital,10,1,4.4,100,97
+S00345,25,Male,Bangladesh,Computer Science,3,3.08,2.8,87,7.7,7.3,3.9,1.2,2.3,No,In a Relationship,Middle,Poor,3.8,2,Copilot,Handwritten,13,1,4.1,87,83
+S00346,24,Female,Germany,Economics,4,3.91,3.8,100,6.2,5.9,3.3,0.4,4.4,Yes,In a Relationship,Middle,Average,5.2,4.5,Copilot,Mixed,4,2,3.2,100,96
+S00347,22,Male,Canada,Biology,2,3.7,1.3,89,8.1,5.8,0.9,1.6,4.5,No,Single,Middle,Good,2.5,2.6,Copilot,Mixed,22,3,2,87,93
+S00348,21,Male,Netherlands,Psychology,2,3.26,1.4,94,8.7,7.6,1.5,0.8,1.2,Yes,In a Relationship,Middle,Average,3.9,0.5,Claude,Handwritten,14,3,4.3,86,95
+S00349,25,Male,Japan,Biology,4,3.58,2.4,77,7.9,5.4,2.3,1.1,1.7,Yes,Single,Low,Good,3.2,3,Gemini,Mixed,14,0,3.9,87,90
+S00350,18,Female,Australia,Medicine,1,3.4,3.2,79,6.7,7.9,4.4,0,1.5,No,In a Relationship,Middle,Average,5.9,1.8,Gemini,Mixed,7,0,3.8,91,80
+S00351,27,Female,Brazil,Physics,3,4,4,100,7.2,4.8,1.7,0,3.4,No,Single,Middle,Average,3.7,2.6,Claude,Digital,9,1,6.2,100,98
+S00352,20,Male,Brazil,Economics,2,4,5.7,100,5.2,8,3.5,2,4.8,Yes,Single,Middle,Average,5,1.7,Claude,Mixed,15,3,4.7,100,98
+S00353,18,Male,Australia,Psychology,2,4,4.8,100,6.8,7.3,3.3,3.1,3.4,Yes,In a Relationship,Middle,Good,4.1,2.6,ChatGPT,Digital,10,2,4.3,100,88
+S00354,27,Male,Bangladesh,Physics,3,3.28,3.3,85,6,6.9,5.2,1.5,0,No,In a Relationship,Middle,Good,7.6,2.3,Copilot,Mixed,13,2,4.4,99,93
+S00355,20,Male,Italy,Engineering,2,3.5,3.5,100,7.8,5,2.7,3.7,4.5,No,In a Relationship,Middle,Good,5.3,1.8,ChatGPT,Handwritten,8,0,5,100,93
+S00356,24,Female,Germany,Economics,1,4,2,98,10,2,0.2,2.2,0.3,No,In a Relationship,Middle,Average,1,0.8,Gemini,Digital,5,1,3.2,93,100
+S00357,28,Male,France,Mathematics,2,3.68,3.5,97,7.6,10,3.8,1.2,1.6,No,In a Relationship,High,Average,5.5,0.8,Copilot,Mixed,18,3,4.7,100,91
+S00358,23,Male,Japan,Psychology,1,2.75,3.1,72,4.6,9.8,6,3.5,3.4,No,In a Relationship,Low,Poor,5,0.3,Claude,Mixed,8,2,5.6,72,64
+S00359,20,Female,Germany,Engineering,3,3.96,4,100,6.6,6.2,3.9,0.5,2.8,No,In a Relationship,Middle,Good,5.2,1.1,Gemini,Mixed,17,2,2.7,100,100
+S00360,19,Male,USA,Law,3,3.72,2.3,86,7.1,3.8,1.6,2,4.7,Yes,Single,Middle,Good,1.4,2.3,Copilot,Mixed,8,2,0,86,88
+S00361,26,Female,Italy,Law,2,4,4.3,91,7.1,5.2,1.2,1.8,1.8,No,Single,Low,Poor,4,1.8,Claude,Handwritten,11,0,0.4,100,94
+S00362,23,Female,USA,Engineering,1,4,5.8,100,6.1,5.5,1.4,0,1.1,No,In a Relationship,Middle,Good,3.4,0.4,ChatGPT,Mixed,10,1,1.2,100,100
+S00363,27,Male,UK,Business,1,3.18,3.3,81,7.3,9.8,5.8,1.1,2.4,No,In a Relationship,Middle,Good,4.8,2.2,Claude,Digital,11,1,1.9,95,73
+S00364,25,Female,Brazil,Medicine,2,3.46,4.1,100,5.5,4.8,2.3,3.8,5,No,Single,Middle,Poor,3.6,0,None,Handwritten,16,4,1.6,99,100
+S00365,22,Male,USA,Computer Science,4,4,4.5,94,5.9,5.2,1.8,0.9,4.3,No,In a Relationship,Middle,Average,3.1,1.5,Claude,Mixed,20,4,0,100,91
+S00366,21,Female,Bangladesh,Business,3,3.4,2.9,94,7.8,5.7,2.6,0.8,3.2,No,In a Relationship,High,Good,3,2.6,Gemini,Handwritten,11,2,6.6,92,93
+S00367,28,Female,Netherlands,Engineering,3,4,3.8,77,5.8,4.2,2.3,2.2,5.7,No,Single,Low,Average,3.4,0,None,Mixed,13,1,0.8,100,92
+S00368,19,Male,Germany,Biology,2,3.64,3.5,97,7.6,7.1,5.2,0,5.3,No,Single,High,Good,4.2,1.4,Gemini,Handwritten,11,3,6.8,90,100
+S00369,24,Female,Brazil,Physics,2,3.58,3.6,87,5.4,4.8,1.3,2.5,4.6,No,Single,Middle,Good,4,0.5,Copilot,Handwritten,12,1,6.3,100,95
+S00370,25,Female,Bangladesh,Psychology,3,3.63,2.3,88,9.1,7.8,4.6,1,0.6,No,In a Relationship,Low,Average,6.4,2.8,Copilot,Mixed,8,2,4.4,86,82
+S00371,26,Male,India,Computer Science,4,3.84,3.5,94,6.1,6.7,3,0.1,4.6,No,Single,Low,Good,3.2,3.4,Claude,Digital,7,3,4.5,85,91
+S00372,22,Female,South Korea,Business,2,4,4.2,99,6.7,8.5,4.6,2.7,2.6,Yes,Single,Middle,Average,5.1,1.8,Copilot,Mixed,14,3,3.7,100,100
+S00373,26,Male,Brazil,Psychology,3,4,5.7,100,7.4,10,5.2,2.1,2.2,Yes,In a Relationship,Middle,Average,5.8,2.1,Gemini,Handwritten,13,1,4.8,100,100
+S00374,23,Female,UK,Biology,3,4,4.9,100,6.3,5,2.9,3.4,1.6,No,Single,Middle,Poor,3.9,2.6,Claude,Mixed,18,2,6.1,100,100
+S00375,21,Female,South Korea,Economics,1,4,6.7,100,7.2,6.1,2.3,2,2.7,Yes,In a Relationship,Low,Good,1.6,2,Copilot,Mixed,12,0,5.3,100,100
+S00376,25,Male,France,Engineering,2,3.96,2.3,100,7.7,6.8,2.9,1.7,1.7,No,In a Relationship,Low,Good,2.2,0.4,Claude,Digital,12,4,4.6,100,95
+S00377,21,Female,Brazil,Medicine,4,4,4.8,100,8.2,5.3,2.7,1.8,3.3,No,In a Relationship,High,Good,1.3,0.8,Gemini,Mixed,15,0,3.6,100,100
+S00378,27,Male,Brazil,Medicine,4,4,3.8,100,7.9,3.4,0.3,1.3,2.7,No,Single,Middle,Poor,4.4,0.7,Copilot,Digital,17,1,0.1,100,100
+S00379,22,Female,Bangladesh,Biology,3,4,6.8,100,6.8,7.8,5.1,0.3,3.4,Yes,Single,Low,Average,5.6,0,None,Digital,11,2,4,100,97
+S00380,24,Male,Italy,Economics,2,3.24,2.3,85,6.8,8.7,3.2,2.4,4.1,No,Single,High,Average,4.8,2.2,Copilot,Mixed,1,1,2,100,91
+S00381,28,Female,UK,Engineering,4,4,2.2,96,9.8,4.2,1.1,1.3,2.4,No,In a Relationship,High,Average,3.5,0,None,Digital,7,0,3.6,82,98
+S00382,22,Female,South Korea,Biology,4,4,2.6,97,8.1,3.5,0,2.6,1.5,No,Single,Middle,Good,2.3,2,Copilot,Handwritten,17,4,2.9,97,87
+S00383,19,Female,Bangladesh,Computer Science,1,3.08,0.5,77,5.9,2.7,0,0.6,0,Yes,Single,Middle,Average,6.2,0.5,Gemini,Handwritten,21,3,6.5,83,98
+S00384,22,Female,South Korea,Psychology,4,4,2.7,100,7.1,6.4,4,0.4,4.5,No,Single,Middle,Average,4.6,1,Claude,Mixed,19,0,7.1,100,97
+S00385,18,Female,South Korea,Physics,3,3.91,2.4,100,6.6,3.3,1.9,1.6,3.2,No,In a Relationship,Middle,Good,3.7,1.8,Gemini,Handwritten,10,6,5.3,100,100
+S00386,24,Male,India,Business,4,3.91,3.7,98,6.8,6.4,2.1,1.6,2.6,No,Single,High,Poor,5.1,2.7,Gemini,Digital,10,1,4.3,100,87
+S00387,22,Male,France,Mathematics,2,3.62,4,100,5.5,7.4,3.5,1.8,5.3,Yes,Single,Middle,Average,5.1,2.1,Copilot,Digital,16,0,1.1,100,94
+S00388,24,Female,South Korea,Law,4,4,6.3,100,6.5,4.6,2,1.3,0.4,Yes,Single,Low,Good,5.8,1.1,ChatGPT,Handwritten,15,1,3.8,100,99
+S00389,18,Female,South Korea,Computer Science,4,4,4.9,100,9.2,5.5,3.6,3,3.1,Yes,Single,Low,Poor,5,1.2,Copilot,Mixed,1,3,5,100,100
+S00390,28,Female,France,Medicine,4,3.56,2.6,92,7.7,6.1,2.9,0,1.1,No,In a Relationship,High,Good,3.9,0,None,Handwritten,12,1,6.3,100,98
+S00391,19,Female,South Korea,Biology,4,2.77,2.2,83,4,5.1,2.7,0.8,4.3,No,Single,Low,Poor,5,1.8,Copilot,Handwritten,12,0,6.6,93,80
+S00392,28,Male,Brazil,Computer Science,4,3.91,4.2,100,8.5,3.1,0.4,1.6,0,Yes,In a Relationship,Low,Poor,2.3,1.1,Gemini,Mixed,6,1,5.1,100,100
+S00393,18,Female,USA,Business,1,3.71,1.5,78,8.3,3.1,1.6,1.6,4.6,No,In a Relationship,Middle,Average,1.2,0.3,Copilot,Handwritten,9,1,4.9,82,98
+S00394,22,Male,Canada,Mathematics,1,3.92,6.2,100,6.6,7,3.7,1.2,4.5,No,In a Relationship,Low,Poor,5.1,2,Claude,Handwritten,13,2,4.2,100,100
+S00395,18,Female,Australia,Law,1,4,5.3,100,7.9,5.1,1.8,0.2,1.2,Yes,Single,High,Average,4.7,2.6,ChatGPT,Handwritten,11,4,2.4,100,100
+S00396,25,Female,Australia,Physics,3,3.58,2.8,87,6,8.9,4.6,0,3.1,No,In a Relationship,Middle,Good,3.1,1,Gemini,Mixed,17,1,1.5,100,95
+S00397,19,Female,Netherlands,Biology,4,2.57,0.9,70,6.4,9.1,6.3,2.5,1.2,Yes,Single,Middle,Average,5.3,0.6,Claude,Digital,21,2,4.5,92,81
+S00398,18,Female,Japan,Mathematics,2,4,5.5,100,8.8,6.4,3.8,1.7,3.9,Yes,Single,Low,Good,3.7,0.6,Gemini,Digital,17,2,4.2,100,100
+S00399,25,Male,Brazil,Medicine,2,3.58,3.3,80,6.7,6.1,5,2.7,4.6,No,Single,Low,Good,4.9,1.6,Gemini,Digital,14,1,5.9,100,77
